@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ravihireanew
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS & JAVA
-- 💞️ I’m looking to collaborate on my instagam @ravi_hirefornew
-- 📫 How to reach me mail- kumbharavindra0@gmail.com
+- 🌱 I’m currently learning HTML, CSS & JAVA, DATA SCIENCE, and Bioinformatics
+- 💞️ I’m looking to collaborate on my Instagram @ravi_hirefornew
+- 📫 How to reach me: mail- kumbharavindra0@gmail.com
 
 
 <!---
